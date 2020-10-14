@@ -1,5 +1,5 @@
 # stargate-unbricked-example
-Sample app in node.js using Stargate's schemaless API on DataStax Astra to organize your Lego brick sets. The use case is storing documents containing a Lego set's information including the list of required bricks to build it. The usage examples live in the unbriced.test.js file.
+Sample app in node.js using Stargate's schemaless API on DataStax Astra to organize your Lego brick sets. The use case is storing documents containing a Lego set's information including the list of required bricks to build it. The usage examples live in the unbricked.test.js file.
 It follows the [Stargate Node.js Example](https://github.com/kidrecursive/stargate-nodejs-example).
 
 ### Prerequisites
